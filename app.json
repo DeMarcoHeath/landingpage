@@ -1,0 +1,12 @@
+{
+  "name": "landing-page",
+  "displayName": "landing-page",
+  "expo": {
+    "name": "landing-page",
+    "slug": "landing-page",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
